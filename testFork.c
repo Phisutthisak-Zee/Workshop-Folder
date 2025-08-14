@@ -1,3 +1,4 @@
+//ID: 674244120 Name: Phisutthisak Srisirilek
 #include <windows.h>
 #include <stdio.h>
 
@@ -41,3 +42,4 @@ int main() {
 
     return 0;
 }
+
